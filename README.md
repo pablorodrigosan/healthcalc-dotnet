@@ -62,7 +62,7 @@ Para verificar a cobertura de testes instalar a extensão fine code coverage
 Você pode usar opacote fornecido para calcular o IMC e os macronutrientes. O pacote está disponível no NuGet. Para instalá-lo, execute o seguinte comando:
 
 ```
-dotnet add package healthcalc-pack-dotnet2 --version 2.0.0
+dotnet add package healthcalc-path-dotnetbhz --version 1.0.0
 
 ````
 
