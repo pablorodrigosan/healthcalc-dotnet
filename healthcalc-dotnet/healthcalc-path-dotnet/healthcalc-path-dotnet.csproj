@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>healthcalc_path_dotnet2</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Calculo de IMC e Macro Nutrientes</Title>
+    <Authors>Pablo Rodrigo dos Santos</Authors>
+    <PackageIcon>icone.png</PackageIcon>
+    <Version>2.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="icone.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Captura de tela 2023-10-12 003844.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="icone.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+</Project>
