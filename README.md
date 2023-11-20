@@ -51,7 +51,7 @@ https://github.com/pablorodrigosan/healthcalc-dotnet.git
 
 
 ## Estrutura do Projeto
-
+![Untitled](https://github.com/pablorodrigosan/healthcalc-dotnet/blob/0714398d0ac8f65756c293e1cc24f8f0034aa551/estrutura-heathcalc.jpg)
 
 ## Execução de Testes
 
